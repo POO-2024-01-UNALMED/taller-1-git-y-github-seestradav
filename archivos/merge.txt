@@ -1,3 +1,8 @@
+
 Sebastian Estrada Villa 
 edad 18 años 
-mis aspiraciones con la materia son comprender los conceptos de programaci+on orientada a objetos con el fin de usarlo en desarrollo web
+mis aspiraciones con la materia son comprender los conceptos de programaci+on orientada a objetos con el fin de usarlo en desarrollo we
+
+por simple lógica supuse que la carpeta necesitaba algun tipo de archivo/contenido, por esta razon ahora si se evidencia la carpeta en el github 
+
+hay que tener cuidado al hacer cambios en un archivo al mismo tiempo debido a que si no se esta al tanto de los cambios del archivo, ya que se genera conflicto por cambios que pueda hacer alguien mas y nosotros al mismo archivo

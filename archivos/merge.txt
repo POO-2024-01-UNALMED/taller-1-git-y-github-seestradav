@@ -1,3 +1,0 @@
-Sebastian Estrada Villa 
-edad 18 años 
-mis aspiraciones con la materia son comprender los conceptos de programaci+on orientada a objetos con el fin de usarlo en desarrollo web
